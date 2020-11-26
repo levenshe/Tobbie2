@@ -4,12 +4,15 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "radio": "*",
+        "TobbieII": "github:kaku111/pxt-tobbieii#v2.0.3",
+        "microphone": "*"
     },
     "files": [
         "README.md",
         "main.blocks",
-        "main.ts"
+        "main.ts",
+        "main.py"
     ],
     "testFiles": [
         "test.ts"
